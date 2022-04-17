@@ -1,0 +1,31 @@
+p {
+
+    font-size: 50px;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+a.lin {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+h1 {
+    margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+}
+rb {
+    font-size: larger;
+   
+}
