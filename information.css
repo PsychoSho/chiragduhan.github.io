@@ -1,0 +1,21 @@
+body    {
+    
+    background-color: lightblue;
+}
+h2 {
+    margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+    font-size: 45px;
+}
+p {
+    font-size: 30px;
+}
+h3 {
+    margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+    font-size: 35px;
+}
