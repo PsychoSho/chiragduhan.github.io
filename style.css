@@ -40,15 +40,7 @@ p {
 }
 
 
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
-}
-a.lin {
+a.butto {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
@@ -66,4 +58,10 @@ h1 {
 rb {
     font-size: larger;
    
+}
+.bt{
+    font-size: 20px;
+}
+Link1 {
+    font-size: 30px;
 }
