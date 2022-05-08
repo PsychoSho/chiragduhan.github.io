@@ -27,11 +27,18 @@ p {
     color: rgb(0, 0, 0);
 }
 a {
+    font-size: 35px;
+}
+.li {
     font-size: 40px;
 }
-P4 {
-    font-size: 40px;
+.ty {
+    font-size: 45px;
 }
+.time {
+    font-size: 25px;
+}
+
 
 
 
