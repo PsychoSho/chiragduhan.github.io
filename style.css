@@ -46,7 +46,7 @@ a {
     text-align: center;
 }
 .ty {
-    font-size: 45px;
+    font-size: 42px;
     border-bottom: dashed 5px black;
     width: 35%;
     margin: auto
@@ -54,7 +54,7 @@ a {
     border-top: dashed 5px black;
     display: inline-block;
     text-align: center;
-    
+
 }
 .time {
     font-size: 25px;
