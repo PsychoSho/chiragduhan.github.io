@@ -1,0 +1,13 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    font-size: 30px;
+}
+body {
+   background-color: aqua;
+}
+div {
+    border-bottom: thin solid black;
+}
