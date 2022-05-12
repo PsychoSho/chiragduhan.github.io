@@ -11,6 +11,7 @@ h1 {
     border-bottom-right-radius: 1cm;
     border-bottom-left-radius: 1cm;
     width: 30%;
+    text-align: center;
 }
 
 div {
@@ -42,14 +43,18 @@ a {
     font-size: 40px;
     border-bottom: thick double black;
     width: 30%;
+    text-align: center;
 }
 .ty {
     font-size: 45px;
-    border-bottom: dashed black;
+    border-bottom: dashed 5px black;
     width: 35%;
-    margin: auto;
+    margin: auto
     padding: 10px;
-    border-top: dashed black;
+    border-top: dashed 5px black;
+    display: inline-block;
+    text-align: center;
+    
 }
 .time {
     font-size: 25px;
