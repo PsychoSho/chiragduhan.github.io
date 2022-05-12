@@ -4,15 +4,16 @@
 body    {
     
     background-color: lightblue;
+
     border: 10cm;
 }
 h1 {
 
-    border-bottom: thin solid black;
+    border-bottom: medium solid black;
 
-    border-bottom-right-radius: 1cm;
+    border-bottom-right-radius: 1.5cm;
 
-    border-bottom-left-radius: 1cm;
+    border-bottom-left-radius: 1.5cm;
 
     width: 30%;
 
@@ -30,26 +31,34 @@ h1 {
 }
 .li {
     font-size: 40px;
+
     border-bottom: thick double black;
+
     width: 30%;
+
     text-align: center;
 }
 .ty {
     font-size: 42px;
-    border-bottom: dashed 5px black;
-    width: 35%;
-    margin: auto
-    padding: 10px;
-    border-top: dashed 5px black;
-    display: inline-block;
-    text-align: center;
-    
 
+    border-bottom: dashed 5px black;
+
+    width: 35%;
+
+    margin: auto
+
+    padding: 10px;
+
+    border-top: dashed 5px black;
+
+    display: inline-block;
+
+    text-align: center;    
 }
 p {
-    font-size: 35px;
-    color: rgb(0, 0, 0);
+    font-size: 40px;
 
+    color: rgb(0, 0, 0);
 }
 a {
     font-size: 35px;

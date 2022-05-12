@@ -2,49 +2,53 @@ body    {
     
     background-color: lightblue;
 }
-h2 {
-    margin: auto;
-    width: 25%; /* you can adjust border size*/
-    
-    padding: 10px; 
-    font-size: 45px;
-    border-bottom: thin solid black;
-    border-bottom-right-radius: 1cm;
-    border-bottom-left-radius: 1cm;
-    text-align: center;
-}
-p {
-    font-size: 25px;
-}
-
-
 h1 {
     text-align: center;
-    font-size: 50px;
-    border-bottom: thin solid black;
-    border-bottom-right-radius: 1cm;
-    border-bottom-left-radius: 1cm;
+    font-size: 45px;
+    border-bottom: medium solid black;
+    border-bottom-right-radius: 1.5cm;
+    border-bottom-left-radius: 1.5cm;
     margin: auto;
     width: 40%;  /* you can adjust border size*/
     
     padding: 10px; /*lenght of the text */
     text-align: center;
 }
-div {
-    border: medium solid black;
+.valid {
+    border: dashed 4px #000;
+    padding: 20px;
+    display: inline-block;
 }
-.main {
+h2 {
+    margin: auto;
+    width: 25%; /* you can adjust border size*/
     
-        -webkit-appearance: button;
-        -moz-appearance: button;
-        appearance: button;
-    
-        text-decoration: none;
-        color: initial;
-        font-size: 35px;
+    padding: 10px; 
+    font-size: 45px;
+    border-bottom: medium solid black;
+    border-bottom-right-radius: 1.5cm;
+    border-bottom-left-radius: 1.5cm;
+    text-align: center;
+}
+p {
+    font-size: 25px;
 }
 p1 {
     text-align: center;
     font-size: 30px;
     border: thin solid black;
 }
+.main {
+    
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+    font-size: 35px;
+}
+div {
+    border: medium solid black;
+}
+
