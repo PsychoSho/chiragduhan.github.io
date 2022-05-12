@@ -15,7 +15,7 @@ h1 {
 
     border-bottom-left-radius: 1.5cm;
 
-    width: 30%;
+    width: 40%;
 
     text-align: center;
 
@@ -29,21 +29,12 @@ h1 {
 
     color: rgb(0, 0, 0);
 }
-.li {
-    font-size: 40px;
-
-    border-bottom: thick double black;
-
-    width: 30%;
-
-    text-align: center;
-}
 .ty {
     font-size: 42px;
 
     border-bottom: dashed 5px black;
 
-    width: 35%;
+    width: 50%;
 
     margin: auto
 
@@ -63,22 +54,38 @@ p {
 a {
     font-size: 35px;
 }
+.li {
+    font-size: 40px;
+
+    border-bottom: thick double black;
+
+    width: 50%;
+
+    text-align: center;
+}
 li {
     font-size: 30px;
 }
 .time {
     font-size: 25px;
 }
-
 div {
     border: 0.5rem outset pink;
+
     outline: 0.5rem solid gold;
+
     box-shadow: 0 0 0 2rem skyblue;
+
     border-radius: 12px;
+
     font: bold 1rem sans-serif;
+
     margin: 2rem;
+
     padding: 1rem;
+
     outline-offset: 0.5rem;
+
     background-color: aquamarine;
 }
 
@@ -90,10 +97,13 @@ div {
 a.butto {
     /* this code can be used to make a link look like a button */
     -webkit-appearance: button;
+
     -moz-appearance: button;
+
     appearance: button;
 
     text-decoration: none;
+
     color: initial;
 }
  
