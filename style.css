@@ -1,9 +1,18 @@
-
+/*  width can be used to adjust border size*/
+/* padding can be used to make gap betwwen text and border */
+/* margin can be used to get text in center*/
 body    {
     
     background-color: lightblue;
     border: 10cm;
 }
+h1 {
+    border-bottom: thin solid black;
+    border-bottom-right-radius: 1cm;
+    border-bottom-left-radius: 1cm;
+    width: 23%;
+}
+
 div {
     border: thick solid black;
 }
@@ -31,16 +40,25 @@ a {
 }
 .li {
     font-size: 40px;
+    border-bottom: thick double black;
+    width: 20%;
 }
 .ty {
     font-size: 45px;
+    border-bottom: dashed black;
+    width: 26%;
+    margin: auto;
+    padding: 10px;
+    border-top: dashed black;
 }
 .time {
     font-size: 25px;
 }
 
 
-
+p4 {
+    font-size: 40px;
+}
 
 button {
     font-size: large;
@@ -68,7 +86,7 @@ a.butto {
 
 h1 {
     margin: auto;
-    width: 50%;
+    
     
     padding: 10px;
 }
