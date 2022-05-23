@@ -1,5 +1,5 @@
 /*  width can be used to adjust border size*/
-/* padding can be used to make gap betwwen text and border */
+/* padding can be used to make gap between text and border */
 /* margin can be used to get text in center*/
 body    {
     
@@ -36,7 +36,7 @@ h1 {
 
     width: 50%;
 
-    margin: auto
+    margin: auto;
 
     padding: 10px;
 
@@ -54,7 +54,7 @@ a {
     border: solid thin black;
 }
 .pro {
-    font-size: 40px;
+    font-size: 38px;
 
     border-bottom: thick double black;
 
@@ -63,7 +63,7 @@ a {
     text-align: center;
 }
 .li {
-    font-size: 20px;
+    font-size: 27px;
 }
 
 .time {
