@@ -61,9 +61,11 @@ a {
 .li {
     font-size: 25px;
 }
-
 .time {
-    font-size: 25px;
+    font-size: 20px;
+}
+p {
+    font-size: ;
 }
 div {
     border: 0.5rem outset pink;
@@ -84,6 +86,8 @@ div {
 
     background-color: aqua;
 }
+
+
 
 /* end */
 
