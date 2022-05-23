@@ -46,15 +46,11 @@ h1 {
 
     text-align: center;    
 }
-
 a {
     font-size: 25px;
 }
-.project {
-    border: solid thin black;
-}
 .pro {
-    font-size: 38px;
+    font-size: 37px;
 
     border-bottom: thick double black;
 
@@ -63,7 +59,7 @@ a {
     text-align: center;
 }
 .li {
-    font-size: 27px;
+    font-size: 25px;
 }
 
 .time {
