@@ -46,11 +46,7 @@ h1 {
 
     text-align: center;    
 }
-p {
-    font-size: 40px;
 
-    color: rgb(0, 0, 0);
-}
 a {
     font-size: 25px;
 }
@@ -58,7 +54,7 @@ a {
     border: solid thin black;
 }
 .pro {
-    font-size: 35px;
+    font-size: 37px;
 
     border-bottom: thick double black;
 
@@ -67,7 +63,7 @@ a {
     text-align: center;
 }
 .li {
-    font-size: 25px;
+    font-size: 27px;
 }
 
 .time {
