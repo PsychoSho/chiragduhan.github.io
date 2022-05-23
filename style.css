@@ -1,14 +1,12 @@
 /*  width can be used to adjust border size*/
 /* padding can be used to make gap between text and border */
 /* margin can be used to get text in center*/
-body    {
-    
+body    {    
     background-color: lightblue;
 
     border: 10cm;
 }
 h1 {
-
     border-bottom: medium solid black;
 
     border-bottom-right-radius: 1.5cm;
@@ -54,15 +52,28 @@ a {
 
     border-bottom: thick double black;
 
-    width: 50%;
+    width: 60%;
 
     text-align: center;
 }
 .li {
     font-size: 25px;
 }
+.li3 {
+    font-size: 25px;
+
+    border-bottom: thick double black;
+
+    padding-bottom: 30px;
+
+    width: 60%;
+}
 .time {
     font-size: 20px;
+
+    padding: 2.5px;
+
+    text-align: right;
 }
 p {
     font-size: ;
@@ -87,12 +98,7 @@ div {
     background-color: aqua;
 }
 
-
-
 /* end */
-
-
-
 
 a.butto {
     /* this code can be used to make a link look like a button */
