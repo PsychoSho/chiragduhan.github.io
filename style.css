@@ -44,11 +44,8 @@ h1 {
 
     text-align: center;    
 }
-a {
-    font-size: 25px;
-}
 .pro {
-    font-size: 37px;
+    font-size: 40px;
 
     border-bottom: thick double black;
 
@@ -57,10 +54,10 @@ a {
     text-align: center;
 }
 .li {
-    font-size: 25px;
+    font-size: 15px;
 }
 .li3 {
-    font-size: 25px;
+    font-size: 15px;
 
     border-bottom: thick double black;
 
