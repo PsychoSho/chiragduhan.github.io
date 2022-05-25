@@ -7,6 +7,10 @@ body    {
     border: 10cm;
 }
 h1 {
+    font-size: 55px;
+
+    color: rgb(0, 0, 0);
+
     border-bottom: medium solid black;
 
     border-bottom-right-radius: 1.5cm;
@@ -20,12 +24,6 @@ h1 {
     margin: auto;
 
     padding: 10px;
-
-    font-size: 55px;
-
-    text-align: center;
-
-    color: rgb(0, 0, 0);
 }
 .ty {
     font-size: 42px;
@@ -55,22 +53,61 @@ h1 {
 }
 .li {
     font-size: 20px;
+
+    padding-bottom: 10px;
+}
+.li2 {
+    font-size: 20px;
+
+    padding-bottom: 20px;
+
+    border-bottom: thick double black;
+
+    width: 60%;
+
+    padding-bottom: 20px;
+    
 }
 .li3 {
     font-size: 20px;
 
-    border-bottom: thick double black;
+    padding-top: 20px;
 
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 
-    width: 60%;
+    border-bottom: medium solid black;
+
+    border-top: medium solid black;
+
+    border-bottom-right-radius: 1.5cm;
+
+    border-bottom-left-radius: 1.5cm;
+
+    border-top-right-radius: 1.5cm;
+
+    border-top-left-radius: 1.5cm;
+
+    width: 45%;
+
+    text-align: center;
+
+    margin: auto;
+
+    
 }
 .time {
-    font-size: 20px;
-
-    padding: 2.5px;
-
-    text-align: right;
+    background-color: #04AA6D; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+    
 }
 p {
     font-size: ;
