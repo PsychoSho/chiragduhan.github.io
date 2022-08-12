@@ -45,16 +45,21 @@ h1 {
 .pro {
     font-size: 40px;
 
-    border-bottom: thick double black;
-
     width: 60%;
 
     text-align: center;
+
+    border-bottom: thick double black;
 }
 .li {
     font-size: 25px;
 
     padding-bottom: 10px;
+
+    border-bottom: thick double black;
+    
+    width: 60%
+    
 }
 .li2 {
     font-size: 25px;
